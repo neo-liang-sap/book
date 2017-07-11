@@ -12,7 +12,7 @@
 
 * Python
 
-* Webchat
+* Wechat
 
 
  
