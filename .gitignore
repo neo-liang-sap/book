@@ -1,2 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+gin
+*.sh
+gin-bin
+cpanel
+temp
 .idea
