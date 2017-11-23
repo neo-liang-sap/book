@@ -55,3 +55,6 @@
 
 ### 关于docker
 觉得此文章不错可以给我star！
+
+### License
+This is free software distributed under the terms of the MIT license
