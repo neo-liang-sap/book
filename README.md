@@ -80,6 +80,35 @@
    - [Neo4j .rb 中文資源](http://neo4j.tw/)
    - [Disque 使用教程](http://disquebook.com)
    - [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)   
+ 
+#### Node
+   - [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+   - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+   - [express.js 中文文档](http://expressjs.jser.us/)
+   - [koa 中文文档](https://github.com/guo-yu/koa-guide)
+   - [一起学koa](http://base-n.github.io/koa-generator-examples/)
+   - [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+   - [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+   - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+   - [Learn You The Node.js For Much Win!](https://www.npmjs.com/package/learnyounode-zh-cn)
+   - [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+   - [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+   - [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)   
+   
+#### PHP
+   - [PHP 官方手册](http://php.net/manual/zh/)
+   - [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
+   - PHP之道：php-the-right-way](http://wulijun.github.io/php-the-right-way/) 
+   - [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
+   - [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
+   - [深入理解PHP内核](https://github.com/reeze/tipi)
+   - [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
+   - [Laravel5.5 中文文档](https://d.laravel-china.org/docs/5.5)
+   - [Laravel 5.1 LTS 速查表](https://cs.phphub.org/)
+   - [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
+   - [Composer 中文网](http://www.phpcomposer.com)
+   - [Lumen 中文文档](http://lumen.laravel-china.org/)
+   - [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html) 
 
 ### 编程书大全
 觉得此文章不错可以给我star！
