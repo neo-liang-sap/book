@@ -55,11 +55,12 @@
   - [hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 #### Python
    - [用Python做科学计算](https://github.com/KeKe-Li/book/blob/master/Python/%E7%94%A8Python%E5%81%9A%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97.pdf)
-   - [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
-   - [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
-   - [深入 Python 3](http://old.sebug.net/paper/books/dive-into-python3/)
-   - [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
-   -[Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
+   - [Python3.3官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+   - [Google Python风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
+   - [深入Python3](http://old.sebug.net/paper/books/dive-into-python3/)
+   - [Python官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
+   - [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
+   - [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
 #### Wechat
    - [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
 #### React
