@@ -41,9 +41,13 @@
   - [Golang标准库文档](http://godoc.ml/)
   - [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 #### docker
-  - [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
   - [Docker中文指南](https://github.com/widuu/chinese_docker)
   - [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
+  - [Docker 快速手册！](https://github.com/eon01/DockerCheatSheet)
+  - [Docker 教程](http://www.runoob.com/docker/docker-tutorial.html)
+  - [Docker中文文档]：http://www.dockerinfo.net/document
+  - [Docker安装手册]：http://www.docker.org.cn/book/install.html
+  - [Docker指令](https://github.com/KeKe-Li/docker-directive/blob/master/README.md)
 #### Linux
   - [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
   - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
