@@ -41,7 +41,7 @@
   - [Golang标准库文档](http://godoc.ml/)
   - [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 #### docker
-  - [docker指令详解](https://github.com/KeKe-Li/docker-directive)
+  - [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
   - [Docker中文指南](https://github.com/widuu/chinese_docker)
   - [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 #### Linux
@@ -72,6 +72,7 @@
    - [webpack功能使用大全](https://github.com/KeKe-Li/book/blob/master/React/webpack%20%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.pdf)
    - [深入浅出ES6](https://github.com/KeKe-Li/book/blob/master/React/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6.pdf)
    - [ES6标准入门](https://github.com/KeKe-Li/book/blob/master/React/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+   - [React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
 #### Git版本控制
    - [git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
    - [GIT入门](http://backlogtool.com/git-guide/cn/)
