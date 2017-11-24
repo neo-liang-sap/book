@@ -53,25 +53,29 @@
    - [深入浅出ES6](https://github.com/KeKe-Li/book/blob/master/React/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6.pdf)
    - [ES6标准入门](https://github.com/KeKe-Li/book/blob/master/React/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
    
-#### 版本控制
-
-   - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+#### Git版本控制
    - [git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-   - [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
-   - [Git 参考手册](http://gitref.justjavac.com)
+   - [GIT入门](http://backlogtool.com/git-guide/cn/)
+   - [Git参考手册](http://gitref.justjavac.com)
    - [Pro Git](http://git-scm.com/book/zh/v2)
    - [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
    - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-   - [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-   - [Git权威指南](http://www.worldhello.net/gotgit/)
-   - [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-   - [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
-   - [沉浸式学 Git](http://igit.linuxtoy.org)
    - [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
    - [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
    - [GitHub帮助文档](https://github.com/waylau/github-help)
    - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
    - [GitHub漫游指南](https://github.com/phodal/github-roam)
+    
+#### NoSQL
+   - [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
+   - [Redis 设计与实现](http://redisbook.com/)
+   - [Redis 命令参考](http://redisdoc.com/)
+   - [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+   - [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+   - [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
+   - [Neo4j .rb 中文資源](http://neo4j.tw/)
+   - [Disque 使用教程](http://disquebook.com)
+   - [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)   
 
 ### 编程书大全
 觉得此文章不错可以给我star！
