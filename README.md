@@ -2,7 +2,7 @@
  
 目录:
      
-#### AI 
+####  AI 
   - [凸优化理论](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
   - [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
   - [数据挖掘与分析](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.pdf)
@@ -36,6 +36,10 @@
   - [Go语言编程](https://github.com/KeKe-Li/book/blob/master/go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
   - [学习Go语言](https://github.com/KeKe-Li/book/blob/master/go/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf) 
   - [Go入门指南](https://github.com/KeKe-Li/book/blob/master/go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)  
+  - [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+  - [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+  - [Golang标准库文档](http://godoc.ml/)
+  - [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 #### Hadoop
   - [hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
      
