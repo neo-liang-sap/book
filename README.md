@@ -52,8 +52,28 @@
    - [webpack功能使用大全](https://github.com/KeKe-Li/book/blob/master/React/webpack%20%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.pdf)
    - [深入浅出ES6](https://github.com/KeKe-Li/book/blob/master/React/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6.pdf)
    - [ES6标准入门](https://github.com/KeKe-Li/book/blob/master/React/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+   
+#### 版本控制
 
-### 关于docker
+   - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [廖雪峰](http://www.liaoxuefeng.com) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
+   - [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+   - [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
+   - [Git 参考手册](http://gitref.justjavac.com)
+   - [Pro Git](http://git-scm.com/book/zh/v2)
+   - [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
+   - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+   - [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+   - [Git权威指南](http://www.worldhello.net/gotgit/)
+   - [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+   - [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
+   - [沉浸式学 Git](http://igit.linuxtoy.org)
+   - [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
+   - [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+   - [GitHub帮助文档](https://github.com/waylau/github-help)
+   - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+   - [GitHub漫游指南](https://github.com/phodal/github-roam)
+
+### 编程书大全
 觉得此文章不错可以给我star！
 
 ### License
