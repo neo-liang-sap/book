@@ -40,6 +40,17 @@
   - [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   - [Golang标准库文档](http://godoc.ml/)
   - [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
+#### docker
+  - [docker指令详解](https://github.com/KeKe-Li/docker-directive)
+  - [Docker中文指南](https://github.com/widuu/chinese_docker)
+  - [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
+#### Linux
+  - [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+  - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
+  - [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
+  - [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+  - [shell十三问](https://github.com/wzb56/13_questions_of_shell)
+  - [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 #### Hadoop
   - [hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 #### Python
