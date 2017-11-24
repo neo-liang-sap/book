@@ -42,9 +42,13 @@
   - [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 #### Hadoop
   - [hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
-     
 #### Python
    - [用Python做科学计算](https://github.com/KeKe-Li/book/blob/master/Python/%E7%94%A8Python%E5%81%9A%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97.pdf)
+   - [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+   - [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
+   - [深入 Python 3](http://old.sebug.net/paper/books/dive-into-python3/)
+   - [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
+   -[Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 #### Wechat
    - [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
 #### React
@@ -56,7 +60,6 @@
    - [webpack功能使用大全](https://github.com/KeKe-Li/book/blob/master/React/webpack%20%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.pdf)
    - [深入浅出ES6](https://github.com/KeKe-Li/book/blob/master/React/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6.pdf)
    - [ES6标准入门](https://github.com/KeKe-Li/book/blob/master/React/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
-   
 #### Git版本控制
    - [git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
    - [GIT入门](http://backlogtool.com/git-guide/cn/)
@@ -69,7 +72,6 @@
    - [GitHub帮助文档](https://github.com/waylau/github-help)
    - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
    - [GitHub漫游指南](https://github.com/phodal/github-roam)
-    
 #### NoSQL
    - [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
    - [Redis 设计与实现](http://redisbook.com/)
@@ -80,7 +82,6 @@
    - [Neo4j .rb 中文資源](http://neo4j.tw/)
    - [Disque 使用教程](http://disquebook.com)
    - [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)   
- 
 #### Node
    - [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
    - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -94,11 +95,9 @@
    - [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
    - [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
    - [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)   
-   
 #### PHP
    - [PHP 官方手册](http://php.net/manual/zh/)
-   - [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
-   - PHP之道：php-the-right-way](http://wulijun.github.io/php-the-right-way/) 
+   - [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)
    - [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
    - [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
    - [深入理解PHP内核](https://github.com/reeze/tipi)
