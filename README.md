@@ -47,7 +47,7 @@
   - [Docker教程](http://www.runoob.com/docker/docker-tutorial.html)
   - [Docker中文文档](http://www.dockerinfo.net/document)
   - [Docker安装手册](http://www.docker.org.cn/book/install.html)
-  - [Docker指令解析](http://www.docker.org.cn/book/install.html)
+  - [Docker](http://www.docker.org.cn/book/install.html)
 #### Linux
   - [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
   - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
