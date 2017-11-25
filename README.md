@@ -123,7 +123,7 @@
    - [Composer 中文网](http://www.phpcomposer.com)
    - [Lumen 中文文档](http://lumen.laravel-china.org/)
    - [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
-   - [php学习指南](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
+ 
 
 ### 编程书大全
 觉得此文章不错可以给我star！
