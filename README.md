@@ -14,7 +14,8 @@
   * [面向机器智能的TensorFlow实践](https://github.com/KeKe-Li/book/blob/master/AI/%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E7%9A%84TensorFlow%E5%AE%9E%E8%B7%B5%20(%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)_.pdf)
   * [机器学习](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
   * [深度学习Deep Learning](https://github.com/KeKe-Li/book/blob/master/AI/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Deep%20Learning.pdf)
-  * [算法大全](http://www.markwaymall.com/College#67)
+  * [量化研究手册：数据分析](https://github.com/KeKe-Li/book/blob/master/AI/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%8B%E5%86%8C%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+  * [统计学习方法](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%9D%8E%E8%88%AA.pdf)
  
 #### Golang
   * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
