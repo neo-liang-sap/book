@@ -3,7 +3,7 @@
 目录:
      
 ####  AI 
-  * [凸优化理论](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
+  * [凸优化理论](https://github.com/KeKe-Li/book/blob/master/AI/%E5%87%B8%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE%20%E7%8E%8B%E4%B9%A6%E5%AE%81%E8%AE%B8%E7%AA%92%E9%BB%84%E6%99%93%E9%9C%96%E8%AF%91%20Stephen%20Boyd%20Lieven%20Vandenbergt%E5%8E%9F%E8%91%97%202013%20%E5%B9%B4l%20%E6%9C%88%E7%AC%AC1%20%E7%89%88.pdf)
   * [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
   * [数据挖掘与分析](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.pdf)
   * [斯坦福大学机器学习复习材料](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%A4%8D%E4%B9%A0%E6%9D%90%E6%96%99.pdf)
