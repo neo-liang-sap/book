@@ -124,7 +124,6 @@
   * [Composer 中文网](http://www.phpcomposer.com)
   * [Lumen 中文文档](http://lumen.laravel-china.org/)
   * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
-  * [Laravel 5 系列入门教程](https://github.com/johnlui/Learn-Laravel-5)
 
 ### 编程书大全
 觉得此文章不错可以给我star！
