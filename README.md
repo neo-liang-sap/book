@@ -123,7 +123,6 @@
   * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
   * [Composer 中文网](http://www.phpcomposer.com)
   * [Lumen 中文文档](http://lumen.laravel-china.org/)
-  * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
 
 ### 编程书大全
 觉得此文章不错可以给我star！
