@@ -8,7 +8,7 @@
   * [数据挖掘与分析](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E8%8B%B1%E6%96%87%EF%BC%89.pdf)
   * [斯坦福大学机器学习复习材料](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%A4%8D%E4%B9%A0%E6%9D%90%E6%96%99.pdf)
   * [斯坦福大学机器学习课程个人笔记完整版](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
-  * [中机器的崛起：中国高管眼的人工智能](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E7%9A%84%E5%B4%9B%E8%B5%B7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AE%A1%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88%E9%BA%A6%E8%82%AF%E9%94%A1%EF%BC%89.pdf)
+  * [中机器的崛起:中国高管眼的人工智能](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E7%9A%84%E5%B4%9B%E8%B5%B7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AE%A1%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88%E9%BA%A6%E8%82%AF%E9%94%A1%EF%BC%89.pdf)
   * [神经网络和深度学习](https://github.com/KeKe-Li/book/blob/master/AI/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
   * [美国人工智能的发展概述](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8F%91%E5%B1%95%E6%A6%82%E8%BF%B0.pdf)
   * [面向机器智能的TensorFlow实践](https://github.com/KeKe-Li/book/blob/master/AI/%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E7%9A%84TensorFlow%E5%AE%9E%E8%B7%B5%20(%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)_.pdf)
@@ -16,7 +16,9 @@
   * [深度学习Deep Learning](https://github.com/KeKe-Li/book/blob/master/AI/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Deep%20Learning.pdf)
   * [量化研究手册：数据分析](https://github.com/KeKe-Li/book/blob/master/AI/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%8B%E5%86%8C%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
   * [统计学习方法](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%9D%8E%E8%88%AA.pdf)
- 
+  * [同济线性代数教材](https://github.com/KeKe-Li/book/blob/master/AI/%E5%90%8C%E6%B5%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%95%99%E6%9D%90.pdf)
+  * [同济高等数学第六版上下册](https://github.com/KeKe-Li/book/blob/master/AI/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B8%8A%E4%B8%8B%E5%86%8C.pdf)
+  * [概率论与数理统计同济大学](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
 #### Golang
   * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
   * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
