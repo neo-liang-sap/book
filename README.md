@@ -2,7 +2,7 @@
  
 目录:
      
-####  AI 
+####  AI与算法
   * [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
   * [机器学习](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
   * [凸优化理论](https://github.com/KeKe-Li/book/blob/master/AI/%E5%87%B8%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA.pdf)
@@ -20,7 +20,7 @@
   * [概率论与数理统计同济大学](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
   * [量化研究手册：数据分析](https://github.com/KeKe-Li/book/blob/master/AI/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%8B%E5%86%8C%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
 #### Golang
-  * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
+  * [Golang标准库文档](http://godoc.ml/)
   * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
   * [Go 学习笔记](https://github.com/KeKe-Li/book/blob/master/go/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
   * [Go Recipes](https://github.com/KeKe-Li/book/blob/master/go/Go%2BRecipes.pdf)
@@ -42,7 +42,6 @@
   * [Go入门指南](https://github.com/KeKe-Li/book/blob/master/go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)  
   * [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
   * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-  * [Golang标准库文档](http://godoc.ml/)
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
@@ -52,6 +51,8 @@
   * [Docker中文文档](http://www.dockerinfo.net/document)
   * [Docker安装手册](http://www.docker.org.cn/book/install.html)
   * [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
+  * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
+
 #### Linux
   * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
   * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
