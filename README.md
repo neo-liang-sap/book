@@ -118,6 +118,7 @@
   * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)   
 #### PHP
   * [PHP 官方手册](http://php.net/manual/zh/)
+  * [Lumen 中文文档](http://lumen.laravel-china.org/)
   * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)
   * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
   * [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
@@ -127,8 +128,6 @@
   * [Laravel 5.1 LTS 速查表](https://cs.phphub.org/)
   * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
   * [Composer 中文网](http://www.phpcomposer.com)
-  * [Lumen 中文文档](http://lumen.laravel-china.org/)
-
 ### 编程书大全
 觉得此文章不错可以给我star！
 
