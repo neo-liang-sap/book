@@ -45,6 +45,7 @@
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
   * [GoExample](https://gobyexample.com/)
   * [Go语言入门](https://zengweigang.gitbooks.io/core-go/index.html)
+  * [GRPC学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
