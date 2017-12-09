@@ -83,6 +83,7 @@
   * [ES6标准入门](https://github.com/KeKe-Li/book/blob/master/React/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
   * [React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
   * [前后端分离实践](https://leohxj.gitbooks.io/front-end-database/content/midway/index.html)
+  * [Typescript](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 #### Git版本控制
   * [git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
   * [GIT入门](http://backlogtool.com/git-guide/cn/)
@@ -130,7 +131,7 @@
   * [Laravel 5.1 LTS 速查表](https://cs.phphub.org/)
   * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
   * [Composer 中文网](http://www.phpcomposer.com)
-  
+ 
 ### 编程书大全
 觉得此文章不错可以给我star！
 
