@@ -43,6 +43,7 @@
   * [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
   * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
+  * [GoExample](https://gobyexample.com/)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -52,7 +53,6 @@
   * [Docker安装手册](http://www.docker.org.cn/book/install.html)
   * [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
   * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
-
 #### Linux
   * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
   * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
@@ -60,7 +60,6 @@
   * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
   * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
   * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
-  
 #### Hadoop
   * [hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 #### Python
@@ -83,7 +82,7 @@
   * [深入浅出ES6](https://github.com/KeKe-Li/book/blob/master/React/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6.pdf)
   * [ES6标准入门](https://github.com/KeKe-Li/book/blob/master/React/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
   * [React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
-  * [React全家桶框架教程](https://leohxj.gitbooks.io/front-end-database/content/midway/index.html)
+  * [前后端分离实践](https://leohxj.gitbooks.io/front-end-database/content/midway/index.html)
 #### Git版本控制
   * [git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
   * [GIT入门](http://backlogtool.com/git-guide/cn/)
