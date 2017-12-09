@@ -86,6 +86,7 @@
   * [React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
   * [前后端分离实践](https://leohxj.gitbooks.io/front-end-database/content/midway/index.html)
   * [Typescript](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+  * [React-router](https://reacttraining.com/react-router/web/guides/philosophy)
 #### Git版本控制
   * [git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
   * [GIT入门](http://backlogtool.com/git-guide/cn/)
