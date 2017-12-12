@@ -89,7 +89,7 @@
   * [Typescript](https://zhongsp.gitbooks.io/typescript-handbook/content/)
   * [React-router](https://reacttraining.com/react-router/web/guides/philosophy)
 #### Git版本控制
-  * [git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+  * [Git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
   * [GIT入门](http://backlogtool.com/git-guide/cn/)
   * [Git参考手册](http://gitref.justjavac.com)
   * [Pro Git](http://git-scm.com/book/zh/v2)
@@ -113,15 +113,15 @@
 #### Node
   * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
-  * [express.js 中文文档](http://expressjs.jser.us/)
-  * [koa 中文文档](https://github.com/guo-yu/koa-guide)
+  * [Express.js 中文文档](http://expressjs.jser.us/)
+  * [Koa 中文文档](https://github.com/guo-yu/koa-guide)
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
   * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
   * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
   * [Learn You The Node.js For Much Win!](https://www.npmjs.com/package/learnyounode-zh-cn)
   * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
-  * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
-  * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)   
+  * [Nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+  * [Orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)   
 #### PHP
   * [PHP 官方手册](http://php.net/manual/zh/)
   * [Lumen 中文文档](http://lumen.laravel-china.org/)
