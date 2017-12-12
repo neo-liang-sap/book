@@ -110,7 +110,6 @@
   * [Neo4j .rb 中文資源](http://neo4j.tw/)
   * [Disque 使用教程](http://disquebook.com)
   * [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)   
-  
 #### Node
   * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
