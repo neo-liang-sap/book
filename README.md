@@ -81,7 +81,7 @@
   * [React中文版](https://github.com/KeKe-Li/book/blob/master/React/React%20%E4%B8%AD%E6%96%87%E7%89%88%20-%20v1.1.pdf)
   * [Redux官方文档](https://github.com/KeKe-Li/book/blob/master/React/Redux%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91.pdf)
   * [Es6手册](https://github.com/KeKe-Li/book/blob/master/React/es6%E6%89%8B%E5%86%8C.md)
-  * [webpack功能使用大全](https://github.com/KeKe-Li/book/blob/master/React/webpack%20%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.pdf)
+  * [Webpack功能使用大全](https://github.com/KeKe-Li/book/blob/master/React/webpack%20%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.pdf)
   * [深入浅出ES6](https://github.com/KeKe-Li/book/blob/master/React/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6.pdf)
   * [ES6标准入门](https://github.com/KeKe-Li/book/blob/master/React/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
   * [React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
@@ -98,7 +98,7 @@
   * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
   * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
   * [GitHub帮助文档](https://github.com/waylau/github-help)
-  * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+  * [Git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
   * [GitHub漫游指南](https://github.com/phodal/github-roam)
 #### NoSQL
   * [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
