@@ -61,7 +61,7 @@
   * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
   * [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
   * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
-  * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
+  * [Shell十三问](https://github.com/wzb56/13_questions_of_shell)
   * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 #### Hadoop
   * [hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
