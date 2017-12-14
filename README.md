@@ -64,8 +64,8 @@
   * [Shell十三问](https://github.com/wzb56/13_questions_of_shell)
   * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 #### 大数据
-  * [Hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
   * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+  * [Hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 #### Python
   * [用Python做科学计算](https://github.com/KeKe-Li/book/blob/master/Python/%E7%94%A8Python%E5%81%9A%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97.pdf)
   * [Python3.3官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
