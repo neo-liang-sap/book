@@ -140,6 +140,7 @@
 
 #### 微服务
   * [微服务：从设计到部署](http://oopsguy.com/books/microservices/index.html)  
+  * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
  
 ### 编程书大全
 觉得此文章不错可以给我star！
