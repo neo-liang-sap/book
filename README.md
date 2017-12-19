@@ -44,6 +44,7 @@
   * [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
   * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
+  * [Go入门指南]()
   * [GoExample](https://gobyexample.com/)
   * [Go语言入门](https://zengweigang.gitbooks.io/core-go/index.html)
   * [GRPC学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
@@ -142,7 +143,7 @@
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
  
 ### 编程书大全
-觉得此文章不错可以给我star！
+觉得此文章不错可以给我star,如果大家有更好的学习的资料也可以一起参与分享!
 
 ### License
 This is free software distributed under the terms of the MIT license
