@@ -44,7 +44,7 @@
   * [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
   * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
-  * [Go入门指南]()
+  * [Go入门指南](https://github.com/KeKe-Li/book/blob/master/go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
   * [GoExample](https://gobyexample.com/)
   * [Go语言入门](https://zengweigang.gitbooks.io/core-go/index.html)
   * [GRPC学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
