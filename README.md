@@ -41,7 +41,6 @@
   * [Go语言实战中文版](https://github.com/KeKe-Li/book/blob/master/go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.pdf)
   * [Go语言编程](https://github.com/KeKe-Li/book/blob/master/go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
   * [学习Go语言](https://github.com/KeKe-Li/book/blob/master/go/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf) 
-  * [Go入门指南](https://github.com/KeKe-Li/book/blob/master/go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)  
   * [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
   * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
