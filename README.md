@@ -56,7 +56,7 @@
   * [Docker安装手册](http://www.docker.org.cn/book/install.html)
   * [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
   * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
-  * [Docker实践](https://github.com/KeKe-Li/book/blob/master/go/docker_practice.pdf)
+  * [docker_practice](https://github.com/KeKe-Li/book/blob/master/go/docker_practice.pdf)
   * [Docker入门实践](https://yeasy.gitbooks.io/docker_practice/content/kubernetes/kubectl.html)
 #### Linux
   * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
@@ -124,7 +124,7 @@
   * [Learn You The Node.js For Much Win!](https://www.npmjs.com/package/learnyounode-zh-cn)
   * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
   * [Nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
-  * [Orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)   
+  * [Orm2中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)   
 #### PHP
   * [PHP 官方手册](http://php.net/manual/zh/)
   * [Lumen 中文文档](http://lumen.laravel-china.org/)
@@ -142,7 +142,6 @@
   * [微服务：从设计到部署](http://oopsguy.com/books/microservices/index.html)  
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
-  * [Kubernetes](https://k8s-install.opsnull.com/)
 
  
 ### 编程书大全
