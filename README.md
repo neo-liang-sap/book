@@ -47,7 +47,7 @@
   * [GoExample](https://gobyexample.com/)
   * [Go语言入门](https://zengweigang.gitbooks.io/core-go/index.html)
   * [GRPC学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
-  * [Machine-Learning-With-Go]()
+  * [Machine-Learning-With-Go](https://github.com/KeKe-Li/book/blob/master/go/Machine-Learning-With-Go.pdf)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -57,7 +57,7 @@
   * [Docker安装手册](http://www.docker.org.cn/book/install.html)
   * [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
   * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
-  * [docker_practice](https://github.com/KeKe-Li/book/blob/master/go/docker_practice.pdf)
+  * [Docker_practice](https://github.com/KeKe-Li/book/blob/master/go/docker_practice.pdf)
   * [Docker入门实践](https://yeasy.gitbooks.io/docker_practice/content/kubernetes/kubectl.html)
 #### Linux
   * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
