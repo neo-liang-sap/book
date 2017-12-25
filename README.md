@@ -94,7 +94,7 @@
   * [React-router](https://reacttraining.com/react-router/web/guides/philosophy)
 #### Git版本控制
   * [Git指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-  * [GiT入门](http://backlogtool.com/git-guide/cn/)
+  * [Git入门](http://backlogtool.com/git-guide/cn/)
   * [Git参考手册](http://gitref.justjavac.com)
   * [Pro Git](http://git-scm.com/book/zh/v2)
   * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
