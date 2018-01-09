@@ -37,7 +37,7 @@
   * [Go开发实践](https://github.com/KeKe-Li/book/blob/master/Go/go-in-practice.pdf)
   * [GO编程概览](https://github.com/KeKe-Li/book/blob/master/Go/go-programming-blueprints-2nd.pdf)
   * [Go web开发](https://github.com/KeKe-Li/book/blob/master/Go/go-web-programming.pdf)
-  * [Go语言圣经中文版](https://github.com/KeKe-Li/book/blob/master/Go/gopl-zh.pdf)
+  * [Go语言圣经中文版](https://github.com/KeKe-Li/book/blob/master/Go/Go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.pdf)
   * [Go语言实战中文版](https://github.com/KeKe-Li/book/blob/master/Go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.pdf)
   * [Go语言编程](https://github.com/KeKe-Li/book/blob/master/Go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
   * [学习Go语言](https://github.com/KeKe-Li/book/blob/master/Go/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf) 
