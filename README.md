@@ -59,8 +59,8 @@
   * [Docker安装手册](http://www.docker.org.cn/book/install.html)
   * [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
   * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/Docker/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
-
   * [Docker入门实践](https://yeasy.gitbooks.io/docker_practice/content/kubernetes/kubectl.html)
+  * [Docker实践](https://github.com/KeKe-Li/book/blob/master/Docker/docker_practice.pdf)
 #### Linux
   * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
   * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
