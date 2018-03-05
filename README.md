@@ -147,6 +147,7 @@
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
   * [Kubernetes](https://k8s-install.opsnull.com/)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
+  * [Kubernetes指南](https://kubernetes.feisky.xyz/)
 
  
 ### 编程书大全
