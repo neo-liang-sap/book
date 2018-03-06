@@ -145,7 +145,7 @@
   * [微服务:从设计到部署](http://oopsguy.com/books/microservices/index.html)  
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
-  * [Kubernetes](https://k8s-install.opsnull.com/)
+  * [部署kubernetes集群](https://k8s-install.opsnull.com/)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
   * [Kubernetes指南](https://kubernetes.feisky.xyz/)
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
