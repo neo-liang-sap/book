@@ -148,6 +148,7 @@
   * [Kubernetes](https://k8s-install.opsnull.com/)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
   * [Kubernetes指南](https://kubernetes.feisky.xyz/)
+  * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
 
  
 ### 编程书大全
