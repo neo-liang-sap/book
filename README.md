@@ -146,9 +146,12 @@
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
   * [部署kubernetes集群](https://k8s-install.opsnull.com/)
+  * [创建kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
-  * [Kubernetes指南](https://kubernetes.feisky.xyz/)
+  * [Kubernetes指南](https://k8smeetup.github.io/docs/tasks/tools/install-kubectl/)
+  * [kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
+  * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
 
  
 ### 编程书大全
