@@ -21,6 +21,7 @@
   * [量化研究手册：数据分析](https://github.com/KeKe-Li/book/blob/master/AI/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%8B%E5%86%8C%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
   * [The Elements of Statistical Learning](https://github.com/KeKe-Li/book/blob/master/AI/The%20Elements%20of%20Statistical%20Learning.pdf)
   * [Mathematical Methods for Physics and Engineering](https://github.com/KeKe-Li/book/blob/master/AI/Mathematical%20Methods%20for%20Physics%20and%20Engineering.pdf)
+  * [模式识别与机器学习(Pattern Recognition And Machine Learning)](https://mqshen.gitbooks.io/prml/)
 #### Golang
   * [Golang标准库文档](http://godoc.ml/)
   * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/Go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
