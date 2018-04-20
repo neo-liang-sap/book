@@ -16,11 +16,12 @@
   * [面向机器智能的TensorFlow实践](https://github.com/KeKe-Li/book/blob/master/AI/%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E7%9A%84TensorFlow%E5%AE%9E%E8%B7%B5%20(%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)_.pdf)
   * [斯坦福大学机器学习复习材料](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%A4%8D%E4%B9%A0%E6%9D%90%E6%96%99.pdf)
   * [斯坦福大学机器学习课程个人笔记完整版](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
-  * [中机器的崛起:中国高管眼的人工智能](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E7%9A%84%E5%B4%9B%E8%B5%B7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AE%A1%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88%E9%BA%A6%E8%82%AF%E9%94%A1%EF%BC%89.pdf)
   * [同济高等数学第六版上下册](https://github.com/KeKe-Li/book/blob/master/AI/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B8%8A%E4%B8%8B%E5%86%8C.pdf)
   * [概率论与数理统计同济大学](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
   * [量化研究手册：数据分析](https://github.com/KeKe-Li/book/blob/master/AI/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%8B%E5%86%8C%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
   * [The Elements of Statistical Learning](https://github.com/KeKe-Li/book/blob/master/AI/The%20Elements%20of%20Statistical%20Learning.pdf)
+  * [Mathematical Methods for Physics and Engineering](https://github.com/KeKe-Li/book/blob/master/AI/Mathematical%20Methods%20for%20Physics%20and%20Engineering.pdf)
+  * [模式识别与机器学习(Pattern Recognition And Machine Learning)](https://mqshen.gitbooks.io/prml/)
 #### Golang
   * [Golang标准库文档](http://godoc.ml/)
   * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
@@ -43,11 +44,14 @@
   * [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
   * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
-  * [Go入门指南](https://github.com/KeKe-Li/book/blob/master/go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
+  * [Go入门指南](https://github.com/KeKe-Li/book/blob/master/Go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
   * [GoExample](https://gobyexample.com/)
   * [Go语言入门](https://zengweigang.gitbooks.io/core-go/index.html)
-  * [GRPC学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
-  * [Machine-Learning-With-Go](https://github.com/KeKe-Li/book/blob/master/go/Machine-Learning-With-Go.pdf)
+  * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
+  * [Machine-Learning-With-Go](https://github.com/KeKe-Li/book/blob/master/Go/Machine-Learning-With-Go.pdf)
+  * [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/ch1-basic/readme.html)
+  * [Go编程文档](http://docscn.studygolang.com/doc/)
+  * [GoGC](https://github.com/KeKe-Li/book/blob/master/Go/go-gc.pdf)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -56,9 +60,9 @@
   * [Docker中文文档](http://www.dockerinfo.net/document)
   * [Docker安装手册](http://www.docker.org.cn/book/install.html)
   * [Docker指令详解](https://github.com/KeKe-Li/docker-directive)
-  * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/go/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
-  * [Docker_practice](https://github.com/KeKe-Li/book/blob/master/go/docker_practice.pdf)
+  * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/Docker/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
   * [Docker入门实践](https://yeasy.gitbooks.io/docker_practice/content/kubernetes/kubectl.html)
+  * [Docker实践](https://github.com/KeKe-Li/book/blob/master/Docker/docker_practice.pdf)
 #### Linux
   * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
   * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
@@ -66,6 +70,7 @@
   * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
   * [Shell十三问](https://github.com/wzb56/13_questions_of_shell)
   * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
+  * [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
 #### 大数据
   * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
   * [Hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -142,12 +147,17 @@
   * [微服务:从设计到部署](http://oopsguy.com/books/microservices/index.html)  
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
-  * [Kubernetes](https://k8s-install.opsnull.com/)
+  * [部署kubernetes集群](https://k8s-install.opsnull.com/)
+  * [创建kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
+  * [Kubernetes指南](https://k8smeetup.github.io/docs/tasks/tools/install-kubectl/)
+  * [kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
+  * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
+  * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
 
  
 ### 编程书大全
-觉得此文章不错可以给我star,如果大家有更好的学习的资料也可以一起加我微信Sen0676一起参与分享!
+觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信Sen0676,加入我们的交流群一起交流学习！
 
 ### License
 This is free software distributed under the terms of the MIT license
