@@ -144,7 +144,7 @@
   * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
   * [Composer 中文网](http://www.phpcomposer.com)
 #### 微服务
-  
+  * [Go-kit中文](http://go-kit.cn/)
   * [微服务:从设计到部署](http://oopsguy.com/books/microservices/index.html)  
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
