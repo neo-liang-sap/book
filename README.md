@@ -157,7 +157,14 @@
   * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html)
 
 ### 编程书大全
-觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信Sen0676,加入我们的交流群一起交流学习！
+觉得此文章不错，支持我的话可以给我star ，:star:！
+
+
+如果有问题可以加我的微信Sen0676,
+<p align="center">
+<img width="100%" align="center" src="images/1.jpg" />
+</p>
+加入我们的交流群一起交流学习！
 
 ### License
 This is free software distributed under the terms of the MIT license
