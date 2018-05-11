@@ -160,9 +160,9 @@
 觉得此文章不错，支持我的话可以给我star ，:star:！
 
 
-如果有问题可以加我的微信Sen0676,
+如果有问题可以加我的微信，
 <p align="center">
-<img width="100%" align="center" src="images/1.jpg" />
+<img width="100" align="center" src="images/1.jpg" />
 </p>
 加入我们的交流群一起交流学习！
 
