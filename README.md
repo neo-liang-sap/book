@@ -155,7 +155,9 @@
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
   * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html)
   * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
-  * [Grpc官方文档](http://doc.oschina.net/grpc?t=56831)
+  * [Grpc官方文档](https://grpc.io/docs/)
+  * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
+  * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
 
 
 
