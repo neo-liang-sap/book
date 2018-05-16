@@ -47,7 +47,6 @@
   * [Go入门指南](https://github.com/KeKe-Li/book/blob/master/Go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
   * [GoExample](https://gobyexample.com/)
   * [Go语言入门](https://zengweigang.gitbooks.io/core-go/index.html)
-  * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
   * [Machine-Learning-With-Go](https://github.com/KeKe-Li/book/blob/master/Go/Machine-Learning-With-Go.pdf)
   * [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/ch1-basic/readme.html)
   * [Go编程文档](http://docscn.studygolang.com/doc/)
@@ -155,6 +154,10 @@
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
   * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html)
+  * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
+  * [Grpc官方文档](http://doc.oschina.net/grpc?t=56831)
+
+
 
 ### 编程书大全
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信，加入我们的交流群一起交流学习！
