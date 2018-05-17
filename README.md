@@ -158,6 +158,7 @@
   * [Grpc官方文档](https://grpc.io/docs/)
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
+  * [Prometheus实战](https://www.bookstack.cn/read/prometheus_practice/introduction-what.md)
 
 
 
