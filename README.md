@@ -83,6 +83,8 @@
   * [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
+  * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
+  
 #### React
   * [ES6编码规范](https://github.com/KeKe-Li/book/blob/master/React/ES6%20%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%20-%20Tower.pdf)
   * [JavaScript设计模式与开发实践](https://github.com/KeKe-Li/book/blob/master/React/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)
