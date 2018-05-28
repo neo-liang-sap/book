@@ -155,12 +155,12 @@
   * [kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
-  * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html)
   * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
   * [Grpc官方文档](https://grpc.io/docs/)
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
-  * [Prometheus实战](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
+  * [Prometheus](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
+  * [Prometheus实战](https://songjiayang.gitbooks.io/prometheus/content/)
   * [zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
 
 
