@@ -68,7 +68,7 @@
   * [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
   * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
   * [Shell十三问](https://github.com/wzb56/13_questions_of_shell)
-  * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
+  * [Shell编程范例](https://tinylab.gitbooks.io/shellbook/content/zh/chapters/01-chapter1.html)
   * [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
 #### 大数据
   * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
