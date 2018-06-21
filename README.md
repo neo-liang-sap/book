@@ -169,6 +169,8 @@
   * [Prometheus实战](https://songjiayang.gitbooks.io/prometheus/content/)
   * [zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
 
+#### 区块链
+  * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/born/)
 
 
 ### 编程书大全
