@@ -171,6 +171,7 @@
 
 #### 区块链
   * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/born/)
+  * [Blockchain区块链资源阅读列表](https://github.com/LiuBoyu/blockchain)
 
 
 ### 编程书大全
