@@ -38,6 +38,8 @@
   * [AntitextbookGo](https://github.com/KeKe-Li/book/blob/master/go/antitextbookGo.pdf)
   * [Go-building-web-applications](https://github.com/KeKe-Li/book/blob/master/go/go-building-web-applications.pdf)
   * [Go-design-patterns](https://github.com/KeKe-Li/book/blob/master/go/go-design-patterns.pdf)
+  * [Go-design-patterns](https://github.com/KeKe-Li/book/blob/master/go/go-design-patterns.pdf)
+  * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
   * [Go语言实战](https://github.com/KeKe-Li/book/blob/master/go/go-in-action.pdf)
   * [Go开发实践](https://github.com/KeKe-Li/book/blob/master/go/go-in-practice.pdf)
   * [GO编程概览](https://github.com/KeKe-Li/book/blob/master/go/go-programming-blueprints-2nd.pdf)
