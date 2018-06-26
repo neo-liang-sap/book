@@ -169,6 +169,7 @@
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
   * [Prometheus实战](https://songjiayang.gitbooks.io/prometheus/content/)
   * [zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
+  * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
 #### 区块链
   * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/born/)
   * [Blockchain区块链资源阅读列表](https://github.com/LiuBoyu/blockchain)
