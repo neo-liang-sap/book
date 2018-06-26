@@ -7,7 +7,7 @@
 当你迷茫的时候，书可以带你找到问题的答案，开阔自己的眼界，提升自己的认知,如果你觉得总结对你有帮助，可以star收藏下。
 
 <p align="center">
-<img width="100%" align="center" src="src/images/2.jpg" />
+<img width="100%" align="center" src="images/2.jpg" />
 </p>
  
 目录:
