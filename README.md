@@ -8,7 +8,7 @@
 当你迷茫的时候，书可以带你找到问题的答案，开阔自己的眼界，提升自己的认知，不断的前行。
 
 <p align="center">
-<img width="100%" align="center" src="images/2.jpg" />
+<img width="100%" align="center" src="images/1.jpg" />
 </p>
  
 目录:
@@ -183,10 +183,8 @@
   * [TiDB](https://pingcap.com/docs-cn/)
   * [CockroachDB](https://github.com/cockroachdb/cockroach)
 ### 编程书大全
-觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信，加入我们的交流群一起交流学习！
-<p align="left">
-<img width="260" align="center" src="images/1.jpg" />
-</p>
+
+觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信**Sen0676**，加入我们的交流群一起交流学习！
 
 
 ### License
