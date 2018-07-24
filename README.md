@@ -169,6 +169,7 @@
   * [kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
+  * [Istio官方文档中文版](http://istio.doczh.cn/)
   * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
   * [Grpc官方文档](https://grpc.io/docs/)
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
