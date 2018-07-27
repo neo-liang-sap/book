@@ -96,6 +96,7 @@
   * [Python官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
   * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
   * [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
+  * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days?1532685843314)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
   * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
@@ -169,7 +170,7 @@
   * [kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
-  * [Istio官方文档中文版](http://istio.doczh.cn/)
+  * [Istio官方文档中文版](https://preliminary.istio.io/zh/docs/concepts/what-is-istio/)
   * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
   * [Grpc官方文档](https://grpc.io/docs/)
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
