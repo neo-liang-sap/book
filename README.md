@@ -162,7 +162,7 @@
 #### 微服务
   * [微服务:从设计到部署](http://oopsguy.com/books/microservices/index.html)  
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
-  * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
+  * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/Go/micro-service-architect.pdf)
   * [部署kubernetes集群](https://github.com/KeKe-Li/kubernetes-tutorial/blob/master/src/cluster/kubernetes-cluster.md)
   * [创建kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
