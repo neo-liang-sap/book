@@ -11,7 +11,7 @@
 <img width="100%" align="center" src="images/1.jpg" />
 </p>
  
-目录:
+书籍的目录:
      
 ####  AI与算法
   * [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
