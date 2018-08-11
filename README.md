@@ -187,6 +187,7 @@
 #### 数据库
   * [TiDB](https://pingcap.com/docs-cn/)
   * [CockroachDB](https://github.com/cockroachdb/cockroach)
+  * [Redis](http://doc.redisfans.com/)
 ### 编程书大全
 
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信**Sen0676**，加入我们的交流群一起交流学习！
