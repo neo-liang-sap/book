@@ -16,6 +16,7 @@
 ####  AI与算法
   * [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
   * [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/content/cpp/)
+  * [经典算法大全](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E5%A4%A7%E5%85%A8.pdf)
   * [机器学习](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
   * [梯度下降](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.pdf)
   * [凸优化理论](https://github.com/KeKe-Li/book/blob/master/AI/%E5%87%B8%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA.pdf)
@@ -34,7 +35,6 @@
   * [The Elements of Statistical Learning](https://github.com/KeKe-Li/book/blob/master/AI/The%20Elements%20of%20Statistical%20Learning.pdf)
   * [Mathematical Methods for Physics and Engineering](https://github.com/KeKe-Li/book/blob/master/AI/Mathematical%20Methods%20for%20Physics%20and%20Engineering.pdf)
   * [模式识别与机器学习(Pattern Recognition And Machine Learning)](https://mqshen.gitbooks.io/prml/)
-  * [经典算法大全](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E5%A4%A7%E5%85%A8.pdf)
 #### Golang
   * [Golang标准库文档](http://godoc.ml/)
   * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/Go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
