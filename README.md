@@ -98,6 +98,10 @@
   * [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
   * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days?1532685843314)
   * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+#### Rust
+  * [Rust 程序设计语言](https://kaisery.gitbooks.io/rust-book-chinese/content/)
+  * [Rust语言学习笔记](https://photino.gitbooks.io/rust-notes/)
+  * [通过例子学习Rust](http://rustcc.github.io/rust-by-example/)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
   * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
