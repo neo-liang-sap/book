@@ -34,6 +34,7 @@
   * [The Elements of Statistical Learning](https://github.com/KeKe-Li/book/blob/master/AI/The%20Elements%20of%20Statistical%20Learning.pdf)
   * [Mathematical Methods for Physics and Engineering](https://github.com/KeKe-Li/book/blob/master/AI/Mathematical%20Methods%20for%20Physics%20and%20Engineering.pdf)
   * [模式识别与机器学习(Pattern Recognition And Machine Learning)](https://mqshen.gitbooks.io/prml/)
+  * [经典算法大全]()
 #### Golang
   * [Golang标准库文档](http://godoc.ml/)
   * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/Go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
