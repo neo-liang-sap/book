@@ -167,14 +167,14 @@
 #### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
   * [Prometheus实战](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart)
-  * [zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
+  * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
   * [Elasticsearch 权威指南中文版](https://elasticsearch.cn/book/elasticsearch_definitive_guide_2.x/getting-started.html)
 #### 调度系统
-  * [部署kubernetes集群](https://github.com/KeKe-Li/kubernetes-tutorial/blob/master/src/cluster/kubernetes-cluster.md)
-  * [创建kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
+  * [部署Kubernetes集群](https://github.com/KeKe-Li/kubernetes-tutorial/blob/master/src/cluster/kubernetes-cluster.md)
+  * [创建Kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
   * [Kubernetes指南](https://k8smeetup.github.io/docs/tasks/tools/install-kubectl/)
-  * [kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
+  * [Kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
   * [Apache Mesos官方文档](http://mesos.mydoc.io/)
