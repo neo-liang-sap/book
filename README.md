@@ -97,6 +97,7 @@
   * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
   * [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
   * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days?1532685843314)
+  * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
   * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
@@ -125,16 +126,6 @@
   * [GitHub帮助文档](https://github.com/waylau/github-help)
   * [Git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
   * [GitHub漫游指南](https://github.com/phodal/github-roam)
-#### NoSQL
-  * [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
-  * [Redis 设计与实现](http://redisbook.com/)
-  * [Redis 命令参考](http://redisdoc.com/)
-  * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
-  * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
-  * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
-  * [Neo4j .rb 中文資源](http://neo4j.tw/)
-  * [Disque 使用教程](http://disquebook.com)
-  * [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)   
 #### Node
   * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -168,10 +159,12 @@
   * [Grpc官方文档](https://grpc.io/docs/)
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
+  * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
+#### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
   * [Prometheus实战](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart)
   * [zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
-  * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
+  * [Elasticsearch 权威指南中文版](https://elasticsearch.cn/book/elasticsearch_definitive_guide_2.x/getting-started.html)
 #### 调度系统
   * [部署kubernetes集群](https://github.com/KeKe-Li/kubernetes-tutorial/blob/master/src/cluster/kubernetes-cluster.md)
   * [创建kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
@@ -189,7 +182,13 @@
   * [CockroachDB](https://github.com/cockroachdb/cockroach)
   * [Redis](http://doc.redisfans.com/)
   * [PostgreSQL中文文档](http://www.postgres.cn/docs/9.6/index.html)
-
+  * [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
+  * [Redis 设计与实现](http://redisbook.com/)
+  * [Redis 命令参考](http://redisdoc.com/)
+  * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+  * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+  * [Disque 使用教程](http://disquebook.com)
+  * [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)   
 ### 编程书大全
 
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信**Sen0676**，加入我们的交流群一起交流学习！
