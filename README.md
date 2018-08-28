@@ -168,6 +168,7 @@
 #### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
   * [Prometheus实战](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart)
+  * [Prometheus中文文档](https://www.bookstack.cn/read/prometheus-manual/prometheus-querying-basics.md)
   * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
   * [Elasticsearch 权威指南中文版](https://elasticsearch.cn/book/elasticsearch_definitive_guide_2.x/getting-started.html)
 #### 调度系统
