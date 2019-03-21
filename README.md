@@ -69,6 +69,7 @@
   * [GoGC](https://github.com/KeKe-Li/book/blob/master/Go/go-gc.pdf)
   * [Go设计模式](http://tmrts.com/go-patterns/)
   * [Concurrency in Go](https://github.com/KeKe-Li/book/blob/master/Go/Concurrency%20in%20Go.pdf)
+  * [Go学习笔记(第6版下卷)]()
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
