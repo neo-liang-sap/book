@@ -15,6 +15,7 @@
 ####  AI与算法
   * [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
   * [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/content/cpp/)
+  * [算法导论(第2版)]()
   * [经典算法大全](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E5%A4%A7%E5%85%A8.pdf)
   * [机器学习](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
   * [梯度下降](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.pdf)
@@ -164,6 +165,7 @@
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
   * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
+  * [Introducing Istio Service Mesh for Microservices]()
 #### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
   * [Prometheus实战](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart)
@@ -171,6 +173,7 @@
   * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
   * [Elasticsearch 权威指南中文版](https://elasticsearch.cn/book/elasticsearch_definitive_guide_2.x/getting-started.html)
 #### 调度系统
+  * [Kubernetes]()
   * [部署Kubernetes集群](https://github.com/KeKe-Li/kubernetes-tutorial/blob/master/src/cluster/kubernetes-cluster.md)
   * [创建Kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
@@ -179,21 +182,38 @@
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
   * [Apache Mesos官方文档](http://mesos.mydoc.io/)
+  * [Kubernetes in Action]()
 #### 区块链
   * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/born/)
   * [Blockchain区块链资源阅读列表](https://github.com/LiuBoyu/blockchain)
 #### 数据库
   * [TiDB](https://pingcap.com/docs-cn/)
   * [CockroachDB](https://github.com/cockroachdb/cockroach)
-  * [Redis](http://doc.redisfans.com/)
   * [PostgreSQL中文文档](http://www.postgres.cn/docs/9.6/index.html)
   * [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
+  * [Disque 使用教程](http://disquebook.com)
+  * [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)  
+  * [MySQL必知必会]()
+  * [MySQL性能调优与架构设计]()
+  * [MySQL技术内幕：InnoDB存储引擎]()
+  * [SQL学习指南]()
+  * [高性能MySQL(第3版)中文版]()
+#### Redis  
+  * [Redis](http://doc.redisfans.com/)
+  * [Redis实战]()
   * [Redis 设计与实现](http://redisbook.com/)
   * [Redis 命令参考](http://redisdoc.com/)
-  * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+  * [Redis 3.0源码详解](https://github.com/huangz1990/redis-3.0-annotated)
   * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
-  * [Disque 使用教程](http://disquebook.com)
-  * [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)   
+  * [Redis入门指南（第2版）]()
+  * [redis设计与实现第二版]()
+  
+#### HTTP
+  * [图解HTTP]()  
+  * [HTTP权威指南（中文版）]()  
+  * [TCP-IP详解_卷一、二、三]()  
+  
+   
 ### 编程书大全
 
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信**Sen0676**，加入我们的交流群一起交流学习！
