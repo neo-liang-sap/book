@@ -15,7 +15,7 @@
 ####  AI与算法
   * [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
   * [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/content/cpp/)
-  * [算法导论(第2版)]()
+  * [算法导论(第2版)](https://github.com/KeKe-Li/book/blob/master/Algorithms/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA(%E7%AC%AC2%E7%89%88).pdf)
   * [经典算法大全](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E5%A4%A7%E5%85%A8.pdf)
   * [机器学习](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
   * [梯度下降](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.pdf)
@@ -28,7 +28,7 @@
   * [深度学习DeepLearning](https://github.com/KeKe-Li/book/blob/master/AI/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Deep%20Learning.pdf)
   * [面向机器智能的TensorFlow实践](https://github.com/KeKe-Li/book/blob/master/AI/%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E7%9A%84TensorFlow%E5%AE%9E%E8%B7%B5%20(%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)_.pdf)
   * [斯坦福大学机器学习复习材料](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%A4%8D%E4%B9%A0%E6%9D%90%E6%96%99.pdf)
-  * [算法心得：高效算法的奥秘(第2版)]()
+  * [算法心得：高效算法的奥秘(第2版)](https://github.com/KeKe-Li/book/blob/master/Algorithms/%E7%AE%97%E6%B3%95%E5%BF%83%E5%BE%97%EF%BC%9A%E9%AB%98%E6%95%88%E7%AE%97%E6%B3%95%E7%9A%84%E5%A5%A5%E7%A7%98(%E7%AC%AC2%E7%89%88).pdf?1553169468786)
   * [斯坦福大学机器学习课程个人笔记完整版](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
   * [同济高等数学第六版上下册](https://github.com/KeKe-Li/book/blob/master/AI/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B8%8A%E4%B8%8B%E5%86%8C.pdf)
   * [概率论与数理统计同济大学](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
@@ -68,7 +68,7 @@
   * [Go编程文档](http://docscn.studygolang.com/doc/)
   * [GoGC](https://github.com/KeKe-Li/book/blob/master/Go/go-gc.pdf)
   * [Go设计模式](http://tmrts.com/go-patterns/)
-  * [Concurrency in Go]()
+  * [Concurrency in Go](https://github.com/KeKe-Li/book/blob/master/Go/Concurrency%20in%20Go.pdf)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -175,7 +175,7 @@
   * [Zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
   * [Elasticsearch 权威指南中文版](https://elasticsearch.cn/book/elasticsearch_definitive_guide_2.x/getting-started.html)
 #### 调度系统
-  * [Kubernetes]()
+  * [Kubernetes](https://github.com/KeKe-Li/book/blob/master/kubernetes/kubernetes.pdf?1553169541073)
   * [部署Kubernetes集群](https://github.com/KeKe-Li/kubernetes-tutorial/blob/master/src/cluster/kubernetes-cluster.md)
   * [创建Kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
@@ -184,7 +184,7 @@
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
   * [Apache Mesos官方文档](http://mesos.mydoc.io/)
-  * [Kubernetes in Action]()
+  * [Kubernetes in Action](https://github.com/KeKe-Li/book/blob/master/kubernetes/Kubernetes%20in%20Action.pdf?1553169524263)
 #### 区块链
   * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/born/)
   * [Blockchain区块链资源阅读列表](https://github.com/LiuBoyu/blockchain)
