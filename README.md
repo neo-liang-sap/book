@@ -28,6 +28,7 @@
   * [深度学习DeepLearning](https://github.com/KeKe-Li/book/blob/master/AI/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Deep%20Learning.pdf)
   * [面向机器智能的TensorFlow实践](https://github.com/KeKe-Li/book/blob/master/AI/%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E7%9A%84TensorFlow%E5%AE%9E%E8%B7%B5%20(%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)_.pdf)
   * [斯坦福大学机器学习复习材料](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%A4%8D%E4%B9%A0%E6%9D%90%E6%96%99.pdf)
+  * [算法心得：高效算法的奥秘(第2版)]()
   * [斯坦福大学机器学习课程个人笔记完整版](https://github.com/KeKe-Li/book/blob/master/AI/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
   * [同济高等数学第六版上下册](https://github.com/KeKe-Li/book/blob/master/AI/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B8%8A%E4%B8%8B%E5%86%8C.pdf)
   * [概率论与数理统计同济大学](https://github.com/KeKe-Li/book/blob/master/AI/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
@@ -67,6 +68,7 @@
   * [Go编程文档](http://docscn.studygolang.com/doc/)
   * [GoGC](https://github.com/KeKe-Li/book/blob/master/Go/go-gc.pdf)
   * [Go设计模式](http://tmrts.com/go-patterns/)
+  * [Concurrency in Go]()
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -198,6 +200,7 @@
   * [MySQL技术内幕：InnoDB存储引擎]()
   * [SQL学习指南]()
   * [高性能MySQL(第3版)中文版]()
+  * [高性能MySQL]()
 #### Redis  
   * [Redis](http://doc.redisfans.com/)
   * [Redis实战]()
@@ -210,7 +213,7 @@
   
 #### HTTP
   * [图解HTTP]()  
-  * [HTTP权威指南（中文版）]()  
+  * [HTTP权威指南(中文版)]()  
   * [TCP-IP详解_卷一、二、三]()  
   
    
