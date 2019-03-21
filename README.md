@@ -167,7 +167,7 @@
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
   * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
-  * [Introducing Istio Service Mesh for Microservices]()
+  * [Introducing Istio Service Mesh for Microservices](https://github.com/KeKe-Li/book/blob/master/Istio/Introducing%20Istio%20Service%20Mesh%20for%20Microservices.pdf?1553169873368)
 #### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
   * [Prometheus实战](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart)
@@ -203,18 +203,17 @@
   * [高性能MySQL](https://github.com/KeKe-Li/book/blob/master/Database/%E9%AB%98%E6%80%A7%E8%83%BD%E7%9A%84MySQL.pdf?1553169719354)
 #### Redis  
   * [Redis](http://doc.redisfans.com/)
-  * [Redis实战]()
+  * [Redis实战](https://github.com/KeKe-Li/book/blob/master/Redis/Redis%E5%AE%9E%E6%88%98.pdf?1553169772141)
   * [Redis 设计与实现](http://redisbook.com/)
   * [Redis 命令参考](http://redisdoc.com/)
   * [Redis 3.0源码详解](https://github.com/huangz1990/redis-3.0-annotated)
   * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
-  * [Redis入门指南（第2版）]()
-  * [redis设计与实现第二版]()
-  
+  * [Redis入门指南（第2版）](https://github.com/KeKe-Li/book/blob/master/Redis/Redis%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+  * [Redis设计与实现第二版](https://github.com/KeKe-Li/book/blob/master/Redis/redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AC%AC%E4%BA%8C%E7%89%88.pdf?1553169800966)
 #### HTTP
-  * [图解HTTP]()  
-  * [HTTP权威指南(中文版)]()  
-  * [TCP-IP详解_卷一、二、三]()  
+  * [图解HTTP](https://github.com/KeKe-Li/book/blob/master/Http/%E5%9B%BE%E8%A7%A3HTTP.pdf?1553169839688)  
+  * [HTTP权威指南(中文版)](https://github.com/KeKe-Li/book/blob/master/Http/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf?1553169821086)  
+  * [TCP-IP详解_卷一、二、三](https://github.com/KeKe-Li/book/blob/master/Http/TCP-IP%E8%AF%A6%E8%A7%A3_%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89.pdf?1553169854741)  
   
    
 ### 编程书大全
