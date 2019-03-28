@@ -211,6 +211,8 @@
   * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
   * [Redis入门指南（第2版）](https://github.com/KeKe-Li/book/blob/master/Redis/Redis%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
   * [Redis设计与实现第二版](https://github.com/KeKe-Li/book/blob/master/Redis/redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AC%AC%E4%BA%8C%E7%89%88.pdf?1553169800966)
+#### 消息队列
+  * [Kafka中文文档](http://kafka.apachecn.org/)
 #### HTTP
   * [图解HTTP](https://github.com/KeKe-Li/book/blob/master/Http/%E5%9B%BE%E8%A7%A3HTTP.pdf?1553169839688)  
   * [HTTP权威指南(中文版)](https://github.com/KeKe-Li/book/blob/master/Http/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf?1553169821086)  
