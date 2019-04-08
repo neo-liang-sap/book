@@ -101,6 +101,7 @@
   * [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
   * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days?1532685843314)
   * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+  * [Python编程:从入门到实践]()
 #### Rust
   * [Rust 程序设计语言](https://kaisery.gitbooks.io/rust-book-chinese/content/)
   * [Rust语言学习笔记](https://photino.gitbooks.io/rust-notes/)
