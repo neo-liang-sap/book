@@ -106,6 +106,7 @@
   * [Rust 程序设计语言](https://kaisery.gitbooks.io/rust-book-chinese/content/)
   * [Rust语言学习笔记](https://photino.gitbooks.io/rust-notes/)
   * [通过例子学习Rust](http://rustcc.github.io/rust-by-example/)
+  * [Rust编程语言](https://rustlang-cn.org/office/rust/book/)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
   * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
