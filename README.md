@@ -165,12 +165,12 @@
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/Go/micro-service-architect.pdf)
   * [Istio官方文档中文版](https://preliminary.istio.io/zh/docs/concepts/what-is-istio/)
+  * [Introducing Istio Service Mesh for Microservices](https://github.com/KeKe-Li/book/blob/master/Istio/Introducing%20Istio%20Service%20Mesh%20for%20Microservices.pdf?1553169873368)
   * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
   * [Grpc官方文档](https://grpc.io/docs/)
   * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
   * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
-  * [Introducing Istio Service Mesh for Microservices](https://github.com/KeKe-Li/book/blob/master/Istio/Introducing%20Istio%20Service%20Mesh%20for%20Microservices.pdf?1553169873368)
   * [Etcd指南](https://skyao.gitbooks.io/learning-etcd3/content/documentation/op-guide/clustering.html)
   
 #### 管理和监控  
