@@ -171,6 +171,8 @@
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
   * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
   * [Introducing Istio Service Mesh for Microservices](https://github.com/KeKe-Li/book/blob/master/Istio/Introducing%20Istio%20Service%20Mesh%20for%20Microservices.pdf?1553169873368)
+  * [Etcd指南](https://skyao.gitbooks.io/learning-etcd3/content/documentation/op-guide/clustering.html)
+  
 #### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
   * [Prometheus实战](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/quickstart)
