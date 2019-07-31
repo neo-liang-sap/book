@@ -70,6 +70,7 @@
   * [Concurrency in Go](https://github.com/KeKe-Li/book/blob/master/Go/Concurrency%20in%20Go.pdf)
   * [Go学习笔记(第6版下卷)](https://github.com/KeKe-Li/book/blob/master/Go/Go%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E7%AC%AC6%E7%89%88%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf)
   * [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/01.0.html)
+  * [Go语言实现原理](https://draveness.me/golang/)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
