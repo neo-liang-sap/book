@@ -175,6 +175,7 @@
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
   * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
   * [Etcd指南](https://skyao.gitbooks.io/learning-etcd3/content/documentation/op-guide/clustering.html)
+  * [etcd3学习笔记](https://skyao.gitbooks.io/learning-etcd3/content/documentation/op-guide/configuration.html)
   
 #### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
