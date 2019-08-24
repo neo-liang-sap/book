@@ -82,7 +82,7 @@
   * [Docker从入门到实践](https://github.com/KeKe-Li/book/blob/master/Docker/Docker%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
   * [Docker入门实践](https://yeasy.gitbooks.io/docker_practice/content/kubernetes/kubectl.html)
   * [Docker实践](https://github.com/KeKe-Li/book/blob/master/Docker/docker_practice.pdf)
-  * [docker命令解析](https://docs.docker.com/engine/reference/run/)
+  * [Docker命令解析](https://docs.docker.com/engine/reference/run/)
 #### Linux
   * [Linux构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
   * [Linux命令行(中文版)](http://billie66.github.io/TLCL/book/)
@@ -175,7 +175,7 @@
   * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
   * [Etcd文档](https://coreos.com/etcd/docs/latest/demo.html)
   * [Etcd指南](https://skyao.gitbooks.io/learning-etcd3/content/documentation/op-guide/clustering.html)
-  * [etcd3学习笔记](https://skyao.gitbooks.io/learning-etcd3/content/documentation/op-guide/configuration.html)
+  * [Etcd3学习笔记](https://skyao.gitbooks.io/learning-etcd3/content/documentation/op-guide/configuration.html)
   
 #### 管理和监控  
   * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
