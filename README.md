@@ -14,7 +14,7 @@
      
 ####  AI与算法
   * [数学之美](https://github.com/KeKe-Li/book/blob/master/AI/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
-  * [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/content/cpp/)
+  * [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/content/cpp/linear-list/)
   * [算法导论(第2版)](https://github.com/KeKe-Li/book/blob/master/Algorithms/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA(%E7%AC%AC2%E7%89%88).pdf)
   * [经典算法大全](https://github.com/KeKe-Li/book/blob/master/AI/%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E5%A4%A7%E5%85%A8.pdf)
   * [机器学习](https://github.com/KeKe-Li/book/blob/master/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
