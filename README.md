@@ -238,7 +238,7 @@
   * [写给科学家的范畴论](https://category-theory.mitpress.mit.edu/)
   * [Google 面试自学](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
   * [数据科学原理与技术](https://www.textbook.ds100.org/intro)
-
+  * [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
 
 ### 编程书大全
 
