@@ -92,6 +92,7 @@
   * [Shell编程范例](https://tinylab.gitbooks.io/shellbook/content/zh/chapters/01-chapter1.html)
   * [Linux内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
   * [Linux命令大全](http://man.linuxde.net/)
+  * [计算机网络：原理，协议和实践](https://www.computer-networking.info/#)
 #### 大数据
   * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
   * [Hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -112,6 +113,7 @@
   * [通过例子学习Rust](http://rustcc.github.io/rust-by-example/)
   * [Rust编程语言](https://rustlang-cn.org/office/rust/book/)
   * [Rust in action](https://livebook.manning.com/book/rust-in-action/chapter-1/v-10/)
+  * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
   * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
