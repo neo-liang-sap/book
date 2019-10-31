@@ -114,6 +114,7 @@
   * [Rust编程语言](https://rustlang-cn.org/office/rust/book/)
   * [Rust in action](https://livebook.manning.com/book/rust-in-action/chapter-1/v-10/)
   * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+  * [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
   * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
@@ -224,11 +225,21 @@
   * [Redis设计与实现第二版](https://github.com/KeKe-Li/book/blob/master/Redis/redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AC%AC%E4%BA%8C%E7%89%88.pdf?1553169800966)
 #### 消息队列
   * [Kafka中文文档](http://kafka.apachecn.org/)
+  
 #### HTTP
   * [图解HTTP](https://github.com/KeKe-Li/book/blob/master/Http/%E5%9B%BE%E8%A7%A3HTTP.pdf?1553169839688)  
   * [HTTP权威指南(中文版)](https://github.com/KeKe-Li/book/blob/master/Http/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf?1553169821086)  
   * [TCP-IP详解_卷一、二、三](https://github.com/KeKe-Li/book/blob/master/Http/TCP-IP%E8%AF%A6%E8%A7%A3_%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89.pdf?1553169854741)  
-  
+
+#### Theory 
+  * [开发者的实用密码学](https://cryptobook.nakov.com/)
+  * [从头开始学习计算机图形学](https://www.scratchapixel.com/)
+  * [好奇者的量子计算入门](https://quantum.country/qcvc)
+  * [写给科学家的范畴论](https://category-theory.mitpress.mit.edu/)
+  * [Google 面试自学](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+  * [数据科学原理与技术](https://www.textbook.ds100.org/intro)
+
+
 ### 编程书大全
 
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信**Sen0676**，加入我们的交流群一起交流学习！
