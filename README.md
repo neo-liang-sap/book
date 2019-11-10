@@ -239,6 +239,9 @@
   * [Google 面试自学](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
   * [数据科学原理与技术](https://www.textbook.ds100.org/intro)
   * [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
+  
+#### 设计模式
+  * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
 ### 编程书大全
 
